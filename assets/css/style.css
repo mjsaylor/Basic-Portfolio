@@ -128,7 +128,7 @@ p {
     font-family: 'Abel', sans-serif;    
 }
 
-img {
+#me {
     height: 200px;
     float: left;
     margin: auto 30px;
@@ -139,6 +139,15 @@ img {
     filter: FlipH;
     -ms-filter: "FlipH";
 }
+
+.project {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    border-radius: 8px;
+    margin: 10px 20px 10px 20px;
+}
+
 
 footer {
     font-family: 'Abel', sans-serif;
